@@ -77,7 +77,7 @@ class Header extends React.Component {
                   </ul>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link fs-5 px-4" href="#">
+                  <a className="nav-link fs-5 px-4 " href="#">
                     Dashboard
                   </a>
                 </li>
@@ -111,7 +111,7 @@ class Header extends React.Component {
         </nav>
 
         {/* Separator Line */}
-        <hr className="m-0" style={{ borderTop: '5px solid black', width: '100%' }} />
+        <hr className="m-0" style={{ borderTop: '1px solid black', width: '100%' }} />
       </div>
     );
   }

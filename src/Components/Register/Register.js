@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Header/header';
 import '../Login/Login.css';
-
+import Footer from '../Footer/footer';
 export const Register = () => {
     return (
         <>
@@ -22,6 +22,7 @@ export const Register = () => {
             </div>
             </div>
             </div>
+            <Footer/>
             </>
     );
 };

@@ -4,6 +4,7 @@
     }
     100% {
     transform: translateX(-100%);
+
     }
     }
     
@@ -13,8 +14,8 @@
     }
     .nav-link{
         font-family: 'Times New Roman', Times, serif;
-        color:black;
+        color:white;
     }
     .navbar{
-        background-color: rgba(17, 25, 24, 0.145);
+        background-color: #222;
     }
